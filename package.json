@@ -16,7 +16,7 @@
   "author": "Chris Parker",
   "license": "MIT",
   "dependencies": {
-    "ic-ajax": "~0.9.2"
+    "rasterizehtml": "~0.9.2"
   },
   "bugs": {
     "url": "https://github.com/mrcsparker/ember-cli-rasterizehtml/issues"
